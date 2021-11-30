@@ -7,4 +7,4 @@ RUN pip --no-cache-dir install -r requirements.txt
 
 EXPOSE 8080
 
-CMD ["jupyter"]
+CMD ["jupyter notebook"]
