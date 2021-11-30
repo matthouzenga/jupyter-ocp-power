@@ -1,3 +1,4 @@
+jupyter
 flask
 psycopg2
 sqlalchemy
